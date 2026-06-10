@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+"@types/jquery@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-4.0.1.tgz#7c08ca6492876b70e11e4724af35b347069038cd"
+  integrity sha512-9a59A/tycXgYuPABcp6/3spSShn0NT2UOM4EfHvMumjYi4lJWTsK5SZWjhx3yRm9IHGCeWXdV2YfNsrWrft/CA==

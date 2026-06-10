@@ -1,14 +1,17 @@
 {
-  "name": "nodejs-sandbox",
+  "name": "fast-setup",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch index.js"
+    "start": "serve",
+    "setup": "yarn global add serve typescript; "
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "dhiraj",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^4.0.1"
+  },
   "dependencies": {}
 }
