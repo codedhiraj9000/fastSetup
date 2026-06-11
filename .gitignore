@@ -1,3 +1,6 @@
-node_module
-.devcontainer
-.codesandbox
+# Dependencies
+node_modules/
+
+# Development Environments
+.devcontainer/
+.codesandbox/
