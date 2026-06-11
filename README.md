@@ -44,7 +44,3 @@ FastSetup supports TypeScript out of the box.
 * **Compiling:** If you do not have TypeScript installed globally, you can compile your files using the local `tsc` (TypeScript Compiler) provided in the project.
 
 *Note: You can simply use standard JavaScript files if you want to avoid the compilation step entirely.*
-
-## License
-
-MIT
